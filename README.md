@@ -27,6 +27,13 @@ Inspired by Minecraft's creative mode — break and place blocks in a 3D world w
 
 ---
 
+## 📝 Author
+
+Made by :- SHREYASH
+
+---
+
+
 ## ⚙️ Requirements
 
 - Python 3.7 or newer
@@ -43,7 +50,6 @@ pip install ursina
 
 
 
-        '''Made By :- SHREYASH
 
 
 
