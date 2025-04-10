@@ -38,7 +38,7 @@ Install Ursina:
 pip install ursina
 
 
-Want help with the `git init`, commit, or push? I got you.
+
 
 
 
