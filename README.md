@@ -36,42 +36,7 @@ Install Ursina:
 
 ```bash
 pip install ursina
-🚀 How to Run
-Clone this repository and run the main file:
 
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/block-world.git
-cd block-world
-python main.py
-🛠️ Future Ideas
-Add block types (grass, stone, wood, etc.)
-
-Simple UI for block selection
-
-Save/load the world state
-
-Expand to infinite terrain
-
-Add sound effects and lighting tweaks
-
-👤 Author
-Made by Yash
-Built with ❤️ using Ursina Engine
-
-📄 License
-This project is licensed under the MIT License — feel free to use, modify, and share!
-
-yaml
-Copy
-Edit
-
----
-
-Let me know:
-- Your GitHub username (if you want me to update the repo link),
-- Or if you want a `.md` file download or a PDF version of this too.
 
 Want help with the `git init`, commit, or push? I got you.
 
