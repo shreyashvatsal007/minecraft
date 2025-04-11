@@ -43,14 +43,3 @@ Install Ursina:
 
 ```bash
 pip install ursina
-
-
-
-
-
-
-
-
-
-
-
